@@ -1,0 +1,13 @@
+{
+  "name": "linsendivresize",
+  "version": "1.0.2",
+  "description": "监听div宽高变化",
+  "main": "./dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "tsc -p ."
+  },
+  "author": "ygy",
+  "license": "ISC"
+}
